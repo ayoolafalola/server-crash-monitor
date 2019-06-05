@@ -7,4 +7,5 @@ Tested to work on Ubuntu Servers.
 # Usage
 
 Change `hostmaster@example.com` to your email address to get notification whenever your server is rebooted.
+
 Run `install.sh`. You can also copy and paste its content to the terminal.
